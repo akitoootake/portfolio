@@ -388,3 +388,7 @@ main .contents li.show img{
 .fa-envelope-square:hover{
     color:rgba(105, 103, 103);
 }
+
+br{
+    display: block !important;
+}
