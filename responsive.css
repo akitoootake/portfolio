@@ -141,6 +141,7 @@
         animation:titleAnimation 5s;
         padding-right:0px;
         margin-right:0px;
+        color:red;
     }
 
     @keyframes titleAnimation{
